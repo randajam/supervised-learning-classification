@@ -1,11 +1,5 @@
-
----
-
 ## 🧑‍💻 План с галочками
 
-Вот тебе подробный план с задачами для **поэтапного выполнения**:
-
-```text
 ### ✅ 01_data_split_and_preprocessing.ipynb
 - [ ] Download the dataset and load it into a pandas DataFrame.
 - [ ] Split data into train, validation, and test based on `PurchDate`.

@@ -52,5 +52,5 @@ The project is organized as follows:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/supervised-learning-classification.git
+   git clone https://github.com/randajam/supervised-learning-classification.git
    cd supervised-learning-classification
